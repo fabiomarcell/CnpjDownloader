@@ -3,3 +3,9 @@
 ################################################################################
 
 /Domain/bin/Debug/netcoreapp3.1
+/Domain/obj
+/Infra/bin/Debug/netcoreapp3.1
+/Infra/obj
+/obj
+/Project/bin/Debug/netcoreapp3.1
+/Project/obj
